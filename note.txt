@@ -1,0 +1,20 @@
+npm run something something to run 
+
+how to install express{    
+    npm init 
+
+    npm install express 
+}
+
+how to install nodemon{
+    npm i nodemon 
+}
+
+daily task {
+    1) bikin proses put/edit data sukses sampai data nya teredit di file json nya
+    2) bikin validasi jika id tidak ditemukan dari params id nya di api get data by id, delete dan put 
+    3) bikin validasi di create/edit API utk request body
+}
+
+ref 
+https://joi.dev/api/?v=17.8.3 joi dev
